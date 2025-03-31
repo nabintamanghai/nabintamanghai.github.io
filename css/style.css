@@ -12682,3 +12682,8 @@ textarea.form-control {
 #ftco-navbar {
   margin-bottom: 0;
 }
+
+.gap-3 {
+    gap: 20px; /* Adjust space between buttons */
+}
+
